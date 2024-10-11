@@ -8,21 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I’m Xiran Li, a passionate food science researcher and independant software developer currently pursuing a Ph.D. in Food Science and a Master’s in Computer Science at UC Davis. My work is a unique blend of bioinformatics, food safety, and computational science, allowing me to tackle complex real-world challenges. I have a strong interest in backend and full-stack development.
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+I’ve built systems that improve everyday processes in our research labs, such as my lab inventory management system, which streamlined operations and communication for lab staff. I enjoy building tools and applications that not only improve my life but also the lives of people around me.
+
+I’m constantly learning, pushing the boundaries of my knowledge, and embracing technical challenges in both computer science and bioinformatics. I hope to continue creating innovative solutions that combine my diverse skill set and interdisciplinary background.
+
+Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate!
